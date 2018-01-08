@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Martholio on Twitter is awesome
 ---
 
 # Martholio's Twitter Party
